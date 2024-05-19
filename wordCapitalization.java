@@ -10,7 +10,6 @@ public class wordCapitalization {
         String ans = wordToCapitalize.substring(0,1).toUpperCase() + wordToCapitalize.substring(1);
         System.out.println(ans);
 
-
     }
     
 }
