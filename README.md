@@ -1,1 +1,1 @@
-Codeforces solutions
+Codeforces solution in Java
